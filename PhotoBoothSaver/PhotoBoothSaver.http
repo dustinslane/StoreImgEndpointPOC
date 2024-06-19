@@ -1,0 +1,6 @@
+@PhotoBoothSaver_HostAddress = http://localhost:5246
+
+GET {{PhotoBoothSaver_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

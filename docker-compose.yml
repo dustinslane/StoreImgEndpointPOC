@@ -1,0 +1,6 @@
+﻿services:
+  photoboothsaver:
+    image: photoboothsaver
+    build:
+      context: .
+      dockerfile: PhotoBoothSaver/Dockerfile
